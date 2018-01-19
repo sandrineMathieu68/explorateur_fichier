@@ -1,0 +1,14 @@
+/*
+Theme Name: Bootstheme
+Author: Sandrine Mathieu
+Author URI: https://www.sandrinem.com
+Description: A basic theme using the Bootstrap framework.
+Version: 1.0
+Text Domain: bootstheme
+*/
+body{ background-color: grey; color: grey; }
+.mar{ margin-top: 30px; }
+.navbar .dropdown-menu li {
+  width: 100%;
+  margin-left: 0 !important;
+}
